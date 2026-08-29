@@ -1,0 +1,23 @@
+{
+  "window_title": "FreeCore - 自由核心",
+  "icon_url": "https://picui.ogmua.cn/s1/2026/08/29/6a927448d3eba.webp",
+  "theme_color": "black_and_white",
+  "background_url": "https://picui.ogmua.cn/s1/2026/08/29/6a92746257aaf.webp",
+  "buttons": [
+    {
+      "label": "官网",
+      "value": "https://freecore.cc",
+      "action": "url"
+    },
+    {
+      "label": "个人中心",
+      "value": "https://account.freecore.cc",
+      "action": "url"
+    },
+    {
+      "label": "官方QQ群",
+      "value": "1085070135",
+      "action": "copy"
+    }
+  ]
+}
