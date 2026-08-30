@@ -25,6 +25,21 @@
       "label": "官方QQ群",
       "value": "1085070135",
       "action": "copy"
+    },
+    {
+      "label": "加入服务器",
+      "value": "mc.freecore.cc",
+      "action": "server"
+    },
+    {
+      "label": "设置",
+      "value": "",
+      "action": "options"
+    },
+    {
+      "label": "退出游戏",
+      "value": "",
+      "action": "quit"
     }
   ]
 }
