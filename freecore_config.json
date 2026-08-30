@@ -10,7 +10,7 @@
   "announcement_y": 200,
   "announcement_height": 76,
   "announcement_y_percent": 0.25,
-  "announcement_height_percent": 0.12,
+  "announcement_height_percent": 0.20,
   "announcements": [
     {
       "title": "FreeCore 公告",
