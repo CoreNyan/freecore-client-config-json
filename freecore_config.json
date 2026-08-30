@@ -7,8 +7,10 @@
   "logo_y": 24,
   "logo_width": 180,
   "announcement_x": 20,
+  "announcement_x_percent": 0.14,
   "announcement_y": 200,
   "announcement_height": 76,
+  "announcement_width_percent": 0.72,
   "announcement_y_percent": 0.25,
   "announcement_height_percent": 0.20,
   "announcements": [
