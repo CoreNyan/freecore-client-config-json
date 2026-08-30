@@ -4,6 +4,12 @@
   "logo_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/icon.png",
   "theme_color": "black_and_white",
   "background_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/background.png",
+  "logo_y": 40,
+  "logo_width": 500,
+  "announcement_x": 20,
+  "announcement_y": 200,
+  "announcement_width": 1880,
+  "announcement_height": 76,
   "announcements": [
     {
       "title": "FreeCore 公告",
@@ -23,32 +29,56 @@
     {
       "label": "官网",
       "value": "https://freecore.cc",
-      "action": "url"
+      "action": "url",
+      "x_percent": 0.5,
+      "y_percent": 0.48,
+      "width": 400,
+      "height": 40
     },
     {
       "label": "个人中心",
       "value": "https://account.freecore.cc",
-      "action": "url"
+      "action": "url",
+      "x_percent": 0.5,
+      "y_percent": 0.53,
+      "width": 400,
+      "height": 40
     },
     {
       "label": "官方QQ群",
       "value": "1085070135",
-      "action": "copy"
+      "action": "copy",
+      "x_percent": 0.5,
+      "y_percent": 0.58,
+      "width": 400,
+      "height": 40
     },
     {
       "label": "加入服务器",
       "value": "mc.freecore.cc",
-      "action": "server"
+      "action": "server",
+      "x_percent": 0.5,
+      "y_percent": 0.63,
+      "width": 400,
+      "height": 40
     },
     {
       "label": "设置",
       "value": "",
-      "action": "options"
+      "action": "options",
+      "x_percent": 0.5,
+      "y_percent": 0.68,
+      "width": 400,
+      "height": 40
     },
     {
       "label": "退出游戏",
       "value": "",
-      "action": "quit"
+      "action": "quit",
+      "x_percent": 0.5,
+      "y_percent": 0.73,
+      "width": 400,
+      "height": 40
     }
   ]
 }
