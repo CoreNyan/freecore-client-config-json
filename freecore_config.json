@@ -3,6 +3,13 @@
   "icon_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/icon.png",
   "theme_color": "black_and_white",
   "background_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/background.png",
+  "announcements": [
+    {
+      "title": "FreeCore 公告",
+      "content": "欢迎使用 FreeCore 客户端",
+      "date": "2026-08-30"
+    }
+  ],
   "buttons": [
     {
       "label": "官网",
