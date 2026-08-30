@@ -31,7 +31,7 @@
       "action": "url",
       "x_percent": 0.5,
       "y_percent": 0.48,
-      "width_percent": 0.42,
+      "width_percent": 0.21,
       "height_percent": 0.04
     },
     {
@@ -40,7 +40,7 @@
       "action": "url",
       "x_percent": 0.5,
       "y_percent": 0.53,
-      "width_percent": 0.42,
+      "width_percent": 0.21,
       "height_percent": 0.04
     },
     {
@@ -49,7 +49,7 @@
       "action": "copy",
       "x_percent": 0.5,
       "y_percent": 0.58,
-      "width_percent": 0.42,
+      "width_percent": 0.21,
       "height_percent": 0.04
     },
     {
@@ -58,7 +58,7 @@
       "action": "server",
       "x_percent": 0.5,
       "y_percent": 0.63,
-      "width_percent": 0.42,
+      "width_percent": 0.21,
       "height_percent": 0.04
     },
     {
@@ -67,7 +67,7 @@
       "action": "options",
       "x_percent": 0.5,
       "y_percent": 0.68,
-      "width_percent": 0.42,
+      "width_percent": 0.21,
       "height_percent": 0.04
     },
     {
@@ -76,7 +76,7 @@
       "action": "quit",
       "x_percent": 0.5,
       "y_percent": 0.73,
-      "width_percent": 0.42,
+      "width_percent": 0.21,
       "height_percent": 0.04
     }
   ]
