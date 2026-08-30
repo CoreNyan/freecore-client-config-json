@@ -11,7 +11,15 @@
       "date": "2026-08-30"
     }
   ],
-  "buttons": [
+  "pause_buttons": [
+    { "label": "继续游戏", "value": "", "action": "resume" },
+    { "label": "统计信息", "value": "", "action": "stats" },
+    { "label": "官网", "value": "https://freecore.cc", "action": "url" },
+    { "label": "个人中心", "value": "https://account.freecore.cc", "action": "url" },
+    { "label": "QQ交流群", "value": "1085070135", "action": "copy" },
+    { "label": "断开连接", "value": "", "action": "disconnect" }
+  ],
+  "main_menu_buttons": [
     {
       "label": "官网",
       "value": "https://freecore.cc",
