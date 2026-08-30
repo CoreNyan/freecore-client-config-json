@@ -8,7 +8,6 @@
   "logo_width": 500,
   "announcement_x": 20,
   "announcement_y": 200,
-  "announcement_width": 1880,
   "announcement_height": 76,
   "announcements": [
     {
@@ -32,8 +31,8 @@
       "action": "url",
       "x_percent": 0.5,
       "y_percent": 0.48,
-      "width": 400,
-      "height": 40
+      "width_percent": 0.42,
+      "height_percent": 0.04
     },
     {
       "label": "个人中心",
@@ -41,8 +40,8 @@
       "action": "url",
       "x_percent": 0.5,
       "y_percent": 0.53,
-      "width": 400,
-      "height": 40
+      "width_percent": 0.42,
+      "height_percent": 0.04
     },
     {
       "label": "官方QQ群",
@@ -50,8 +49,8 @@
       "action": "copy",
       "x_percent": 0.5,
       "y_percent": 0.58,
-      "width": 400,
-      "height": 40
+      "width_percent": 0.42,
+      "height_percent": 0.04
     },
     {
       "label": "加入服务器",
@@ -59,8 +58,8 @@
       "action": "server",
       "x_percent": 0.5,
       "y_percent": 0.63,
-      "width": 400,
-      "height": 40
+      "width_percent": 0.42,
+      "height_percent": 0.04
     },
     {
       "label": "设置",
@@ -68,8 +67,8 @@
       "action": "options",
       "x_percent": 0.5,
       "y_percent": 0.68,
-      "width": 400,
-      "height": 40
+      "width_percent": 0.42,
+      "height_percent": 0.04
     },
     {
       "label": "退出游戏",
@@ -77,8 +76,8 @@
       "action": "quit",
       "x_percent": 0.5,
       "y_percent": 0.73,
-      "width": 400,
-      "height": 40
+      "width_percent": 0.42,
+      "height_percent": 0.04
     }
   ]
 }
