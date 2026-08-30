@@ -1,8 +1,8 @@
 {
   "window_title": "FreeCore - 自由核心",
-  "icon_url": "https://picui.ogmua.cn/s1/2026/08/29/6a927448d3eba.webp",
+  "icon_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/icon.png",
   "theme_color": "black_and_white",
-  "background_url": "https://picui.ogmua.cn/s1/2026/08/29/6a92746257aaf.webp",
+  "background_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/background.png",
   "buttons": [
     {
       "label": "官网",
