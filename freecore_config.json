@@ -45,90 +45,46 @@
   ],
   "main_menu_buttons": [
     {
-      "label": "官网",
-      "value": "https://freecore.cc",
-      "action": "url",
-      "style": "secondary",
-      "subtitle": "访问官方世界",
-      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/language/materialiconsoutlined/48dp/1x/outline_language_black_48dp.png",
-      "background": "#151515", "background_hover": "#333333", "border": "#606060", "border_hover": "#FFFFFF", "corner_cut": 10, "icon_size": 22, "text_offset_x": 2,
-      "x_percent": 0.5,
-      "y_percent": 0.55,
-      "width_percent": 0.21,
-      "height_percent": 0.04
-    },
-    {
-      "label": "个人中心",
-      "value": "https://account.freecore.cc",
-      "action": "url",
-      "style": "secondary",
-      "subtitle": "管理玩家账户",
-      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/account_box/materialiconsoutlined/48dp/1x/outline_account_box_black_48dp.png",
-      "background": "#202020", "background_hover": "#3A3A3A", "border": "#858585", "border_hover": "#FFFFFF", "corner_cut": 6, "icon_size": 24, "text_offset_x": -2, "animation_speed": 0.8,
-      "x_percent": 0.5,
-      "y_percent": 0.61,
-      "width_percent": 0.21,
-      "height_percent": 0.04
-    },
-    {
-      "label": "官方QQ群",
-      "value": "1085070135",
-      "action": "copy",
-      "style": "secondary",
-      "subtitle": "1085070135",
-      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/communication/chat/materialiconsoutlined/48dp/1x/outline_chat_black_48dp.png",
-      "background": "#121212", "background_hover": "#2B2B2B", "border": "#4F4F4F", "border_hover": "#DADADA", "corner_cut": 3, "icon_size": 19, "text_offset_y": 1,
-      "x_percent": 0.5,
-      "y_percent": 0.67,
-      "width_percent": 0.21,
-      "height_percent": 0.04
-    },
-    {
-      "label": "单人游戏",
-      "value": "",
-      "action": "singleplayer",
-      "style": "secondary",
-      "subtitle": "进入本地世界",
-      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/play_arrow/materialiconsoutlined/48dp/1x/outline_play_arrow_black_48dp.png",
-       "background": "#181818", "background_hover": "#303030", "border": "#707070", "border_hover": "#FFFFFF", "corner_cut": 8, "icon_size": 22, "text_offset_x": 4, "animation_speed": 1.1,
-       "x_percent": 0.5, "y_percent": 0.49, "width_percent": 0.21, "height_percent": 0.04
-    },
-    {
-      "label": "加入服务器",
-      "value": "mc.freecore.cc",
-      "action": "server",
-      "style": "primary",
-      "subtitle": "mc.freecore.cc",
+      "label": "加入服务器", "value": "mc.freecore.cc", "action": "server", "style": "primary", "subtitle": "mc.freecore.cc",
       "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/hardware/computer/materialiconsoutlined/48dp/1x/outline_computer_black_48dp.png",
       "background": "#050505", "background_hover": "#262626", "border": "#BDBDBD", "border_hover": "#FFFFFF", "corner_cut": 12, "icon_size": 28, "text_offset_x": 5, "animation_speed": 1.25,
-      "x_percent": 0.5,
-      "y_percent": 0.73,
-      "width_percent": 0.21,
-      "height_percent": 0.04
+      "x_percent": 0.5, "y_percent": 0.44, "width_percent": 0.70, "height_percent": 0.10
     },
     {
-      "label": "设置",
-      "value": "",
-      "action": "options",
-      "style": "utility",
+      "label": "单人游戏", "value": "", "action": "singleplayer", "style": "secondary", "subtitle": "进入本地世界",
+      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/play_arrow/materialiconsoutlined/48dp/1x/outline_play_arrow_black_48dp.png",
+      "background": "#181818", "background_hover": "#303030", "border": "#707070", "border_hover": "#FFFFFF", "corner_cut": 8, "icon_size": 22, "text_offset_x": 4, "animation_speed": 1.1,
+      "x_percent": 0.5, "y_percent": 0.55, "width_percent": 0.36, "height_percent": 0.06
+    },
+    {
+      "label": "官网", "value": "https://freecore.cc", "action": "url", "style": "secondary", "subtitle": "访问官方世界",
+      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/language/materialiconsoutlined/48dp/1x/outline_language_black_48dp.png",
+      "background": "#151515", "background_hover": "#333333", "border": "#606060", "border_hover": "#FFFFFF", "corner_cut": 10, "icon_size": 22, "text_offset_x": 2,
+      "x_percent": 0.5, "y_percent": 0.64, "width_percent": 0.30, "height_percent": 0.055
+    },
+    {
+      "label": "个人中心", "value": "https://account.freecore.cc", "action": "url", "style": "secondary", "subtitle": "管理玩家账户",
+      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/account_box/materialiconsoutlined/48dp/1x/outline_account_box_black_48dp.png",
+      "background": "#202020", "background_hover": "#3A3A3A", "border": "#858585", "border_hover": "#FFFFFF", "corner_cut": 6, "icon_size": 24, "text_offset_x": -2, "animation_speed": 0.8,
+      "x_percent": 0.5, "y_percent": 0.70, "width_percent": 0.30, "height_percent": 0.055
+    },
+    {
+      "label": "官方QQ群", "value": "1085070135", "action": "copy", "style": "secondary", "subtitle": "1085070135",
+      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/communication/chat/materialiconsoutlined/48dp/1x/outline_chat_black_48dp.png",
+      "background": "#121212", "background_hover": "#2B2B2B", "border": "#4F4F4F", "border_hover": "#DADADA", "corner_cut": 3, "icon_size": 19, "text_offset_y": 1,
+      "x_percent": 0.5, "y_percent": 0.76, "width_percent": 0.30, "height_percent": 0.055
+    },
+    {
+      "label": "设置", "value": "", "action": "options", "style": "utility",
       "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/settings/materialiconsoutlined/48dp/1x/outline_settings_black_48dp.png",
       "background": "#111111", "background_hover": "#292929", "border": "#555555", "border_hover": "#E8E8E8", "corner_cut": 4, "icon_size": 18, "text_offset_x": 0,
-      "x_percent": 0.5,
-      "y_percent": 0.79,
-      "width_percent": 0.21,
-      "height_percent": 0.04
+      "x_percent": 0.42, "y_percent": 0.84, "width_percent": 0.22, "height_percent": 0.05
     },
     {
-      "label": "退出游戏",
-      "value": "",
-      "action": "quit",
-      "style": "utility",
+      "label": "退出游戏", "value": "", "action": "quit", "style": "utility",
       "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/action/power_settings_new/materialiconsoutlined/48dp/1x/outline_power_settings_new_black_48dp.png",
       "background": "#190E0E", "background_hover": "#3A1717", "border": "#704040", "border_hover": "#FFFFFF", "corner_cut": 8, "icon_size": 18, "animation_enabled": false,
-      "x_percent": 0.5,
-      "y_percent": 0.85,
-      "width_percent": 0.21,
-      "height_percent": 0.04
+      "x_percent": 0.58, "y_percent": 0.84, "width_percent": 0.22, "height_percent": 0.05
     }
   ]
 }
