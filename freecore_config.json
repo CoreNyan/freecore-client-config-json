@@ -28,6 +28,9 @@
   "announcement_width_percent": 0.72,
   "announcement_y_percent": 0.32,
   "announcement_height_percent": 0.17,
+  "announcement_mode": "carousel",
+  "announcement_interval_seconds": 6,
+  "announcement_show_date": true,
   "announcements": [
     {
       "title": "FreeCore 公告",
