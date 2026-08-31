@@ -28,7 +28,7 @@
   "announcement_width_percent": 0.72,
   "announcement_y_percent": 0.32,
   "announcement_height_percent": 0.17,
-  "announcement_mode": "carousel",
+  "announcement_mode": "manual",
   "announcement_interval_seconds": 6,
   "announcement_show_date": true,
   "announcements": [
@@ -36,6 +36,11 @@
       "title": "FreeCore 公告",
       "content": "欢迎使用 FreeCore 客户端",
       "date": "2026-08-30"
+    },
+    {
+      "title": "更新说明",
+      "content": "公告支持手动翻页，可使用上一页和下一页查看历史公告。",
+      "date": "2026-08-31"
     }
   ],
   "pause_buttons": [
