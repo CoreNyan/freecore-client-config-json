@@ -1,7 +1,7 @@
 {
   "window_title": "FreeCore - 自由核心",
   "icon_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/icon.png",
-  "logo_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/icon.png",
+  "logo_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/logo.png",
   "theme_color": "black_and_white",
   "loading_screen_enabled": true,
   "loading_screen_color": -16777216,
@@ -39,11 +39,11 @@
     {
       "title": "FreeCore 公告",
       "content": "欢迎使用 FreeCore 客户端",
-      "date": "2026-08-30"
+      "date": "2026-08-31"
     },
     {
-      "title": "更新说明",
-      "content": "公告支持手动翻页，可使用上一页和下一页查看历史公告。",
+      "title": "测试公告",
+      "content": "这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容这是一条测试公告，有很多内容2333",
       "date": "2026-08-31"
     }
   ],
@@ -128,7 +128,7 @@
       "corner_cut": 8,
       "icon_size": 21,
       "animation_enabled": false,
-      "width": 260,
+      "width": 250,
       "height": 32
     }
   ],
@@ -139,7 +139,7 @@
       "action": "server",
       "style": "primary",
       "subtitle": "mc.freecore.cc",
-      "icon_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/computer_white.png",
+      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/play_arrow/materialiconsoutlined/48dp/1x/outline_play_arrow_black_48dp.png",
       "background": "#090909",
       "background_hover": "#202020",
       "border": "#E0E0E0",
@@ -159,7 +159,7 @@
       "action": "singleplayer",
       "style": "secondary",
       "subtitle": "进入本地世界",
-      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/av/play_arrow/materialiconsoutlined/48dp/1x/outline_play_arrow_black_48dp.png",
+      "icon_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/computer_white.png",
       "background": "#151515",
       "background_hover": "#282828",
       "border": "#686868",
