@@ -127,7 +127,9 @@
       "border_hover": "#FFFFFF",
       "corner_cut": 8,
       "icon_size": 21,
-      "animation_enabled": false
+      "animation_enabled": false,
+      "width": 260,
+      "height": 32
     }
   ],
   "main_menu_buttons": [
@@ -137,7 +139,7 @@
       "action": "server",
       "style": "primary",
       "subtitle": "mc.freecore.cc",
-      "icon_url": "https://raw.githubusercontent.com/google/material-design-icons/master/png/hardware/computer/materialiconsoutlined/48dp/1x/outline_computer_black_48dp.png",
+      "icon_url": "https://raw.githubusercontent.com/CoreNyan/freecore-client-config-json/main/computer_white.png",
       "background": "#090909",
       "background_hover": "#202020",
       "border": "#E0E0E0",
@@ -260,6 +262,8 @@
       "corner_cut": 6,
       "icon_size": 18,
       "animation_enabled": false,
+      "width": 180,
+      "height": 34,
       "x_percent": 0.59,
       "y_percent": 0.85,
       "width_percent": 0.165,
